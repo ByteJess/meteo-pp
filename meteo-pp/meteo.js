@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "Lourches",
     "Denain",
     "Douchy-les-Mines",
+    "gap",
   ];
 
   let cityIndex = 0;
